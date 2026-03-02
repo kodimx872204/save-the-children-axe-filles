@@ -38,7 +38,10 @@ Privacy Note: Data shown is anonymized/synthetic to comply with NGO data protect
 Trend Analysis: Visualizes enrollment and attendance trends over time, helping leadership understand if interventions are working.
 
 Interactive UI: User-friendly dashboard for field managers who are not necessarily data experts.
+![Image](https://github.com/user-attachments/assets/f56bd42a-c7e3-4236-b9c2-abc184def0e7)
 
+![Image](https://github.com/user-attachments/assets/e98a2bda-5abe-4bc5-bbe5-07b147a5edda)
+![Image](https://github.com/user-attachments/assets/3506b0e1-2869-4a5f-905c-559ee6de9337)
 📂 Repository Structure
 /app: R/Shiny dashboard source code.
 
